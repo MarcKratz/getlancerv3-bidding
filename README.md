@@ -66,7 +66,7 @@
         npm install    
 
  
-## CURL Configure
+## CRON (crontab) Configure
 			
         ## Common
         */2 * * * * /home/demoag/html/{{##PROJECT_NAME}}/server/php/Slim/shell/main.sh 1>> /home/demoag/html/{{##PROJECT_NAME}}/tmp/logs/shell.log 2>> /home/demoag/html/{{##PROJECT_NAME}}/tmp/logs/shell.log
